@@ -12,16 +12,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Krish's First Website
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+- This class will help me in the present and the future
+- The class is held in a room with AC unlike where I am living (Tark)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
